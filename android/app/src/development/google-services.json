@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416681203570",
+    "project_id": "tahbeer-6ceab",
+    "storage_bucket": "tahbeer-6ceab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416681203570:android:b21dfa02d93d02a60cafeb",
+        "android_client_info": {
+          "package_name": "com.example.tahbeer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCofJFNAIm7lcEuOIOF71bAqpCXhWbyuuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416681203570:android:3ecfa21263145a6f0cafeb",
+        "android_client_info": {
+          "package_name": "com.example.tahbeer.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCofJFNAIm7lcEuOIOF71bAqpCXhWbyuuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
